@@ -1,4 +1,4 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" width="1920" height="10"></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0200.gif" width="1920" height="1"></img>
 
 
 <img src="https://media2.giphy.com/media/5xad9V0mE1nGygEmbT/giphy.gif?cid=ecf05e47ejq5e7yq1uhbp4y6s791um17e1a7ro64wgpi9sda&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="180" align="right" >
@@ -9,17 +9,14 @@
 - 🥅 2024 Goals: Become a junior developer.
 - 🎣 Fun fact: I love fishing..
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0200.gif" width="400px" height="1">
 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" width="400px" height="1">
-
-
-## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <a href="https://www.linkedin.com/in/miguelcapit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:miguelcapit1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br>
 <br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" width="400px" height="1">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0200.gif" width="400px" height="1">
 <div align="center">
 <br>
 
@@ -39,4 +36,4 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="INTELIJ" height="35" />
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" width="1920" height="10"></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0200.gif" width="1920" height="1"></img>
