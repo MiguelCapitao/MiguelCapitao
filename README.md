@@ -1,4 +1,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<br>
+<br>
+<img src="https://media2.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif" width="400" align="right">
 
 ## About Me...  <img src="https://media.giphy.com/media/3XHMTIqcUev2Vy9ILk/giphy.gif" width="25">
 
@@ -7,6 +10,9 @@
 - 🎣 Fun fact: I love fishing..
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
+
+
 
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <a href="https://www.linkedin.com/in/miguelcapit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
