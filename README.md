@@ -1,7 +1,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="5"></img>
 
 
-<img src="https://media2.giphy.com/media/5xad9V0mE1nGygEmbT/giphy.gif?cid=ecf05e47ejq5e7yq1uhbp4y6s791um17e1a7ro64wgpi9sda&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200" align="right" >
+<img src="https://media2.giphy.com/media/5xad9V0mE1nGygEmbT/giphy.gif?cid=ecf05e47ejq5e7yq1uhbp4y6s791um17e1a7ro64wgpi9sda&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="180" align="right" >
 
 ## About Me...  <img src="https://media.giphy.com/media/3XHMTIqcUev2Vy9ILk/giphy.gif" width="25">
 
