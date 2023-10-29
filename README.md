@@ -15,7 +15,7 @@
 <div align="center">
 <br>
   
-## 🤹 My Skill Set
+## 🤹 My Skills
 
 <br>
 
