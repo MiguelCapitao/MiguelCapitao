@@ -1,4 +1,4 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="5"></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="2"></img>
 
 
 <img src="https://media2.giphy.com/media/5xad9V0mE1nGygEmbT/giphy.gif?cid=ecf05e47ejq5e7yq1uhbp4y6s791um17e1a7ro64wgpi9sda&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="180" align="right" >
@@ -39,4 +39,4 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="INTELIJ" height="35" />
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="5"></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="2"></img>
