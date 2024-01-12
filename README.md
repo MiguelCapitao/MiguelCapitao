@@ -5,7 +5,7 @@
 
 ## About Me...  <img src="https://media.giphy.com/media/3XHMTIqcUev2Vy9ILk/giphy.gif" width="25">
 
-- 🔗  Junior Frontend Developer.
+- 🔗  Junior FullStack Developer.
 - 🎣 Fun fact : I love fishing..
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="400px" height="1">
